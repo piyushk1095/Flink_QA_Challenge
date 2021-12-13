@@ -3,11 +3,13 @@ Automation task for Flink QA challenge
 
 A test solution written in Maven framework to build Selenium tests written in Java with cucumber and JUnit.
 
+
 # Getting Started
 
-Copy the repo into your local machine.
-Import the project as Maven project.
-Resolve dependencies and build the project.
+1. Copy the repo into your local machine.
+2. Import the project as Maven project.
+3. Resolve dependencies and build the project.
+
 
 # Run tests locally
 
